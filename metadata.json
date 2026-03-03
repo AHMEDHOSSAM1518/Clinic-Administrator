@@ -1,0 +1,8 @@
+{
+  "name": "MedFlow - Clinic Management System-10",
+  "description": "A comprehensive clinic management platform for scheduling, patient records, billing, and AI-powered medical insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
